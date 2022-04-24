@@ -1,0 +1,2 @@
+# currently the 'dev' script know to enter a folder named 'chatmate' (the name of the app is was building)
+if u running the react native app in a different directory it have to be changed maualy
